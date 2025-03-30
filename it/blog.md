@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Chi siamo
+title: Blog
 lang: it
-ref: about-us
-permalink: /it/chi-siamo
+ref: 
+permalink: /blog/
 order: 2
 img: https://www.dopara.it/cdn/shop/articles/come-conservare-libri-usati-consigli.jpg?v=1636232915
 ---
