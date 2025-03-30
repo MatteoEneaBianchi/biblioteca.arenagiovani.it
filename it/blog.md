@@ -18,7 +18,7 @@ img: https://www.dopara.it/cdn/shop/articles/come-conservare-libri-usati-consigl
         <div class="card card-bg card-big">
           <div class="card-body">
             <div class="top-icon">
-              <svg class="icon"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-card"></use></svg>
+              <svg class="icon"><use href="/assets/bootstrap-italia/dist/svg/sprite.svg#it-card"></use></svg>
             </div>
             <h3 class="card-title h5">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
