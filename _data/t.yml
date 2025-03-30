@@ -24,9 +24,9 @@ social-links:
     instagram:
       name: "instagram"
       url: "https://instagram.com/onlygabbyme"
-    it-bookmark:
-      name: "it-bookmark"
-      url: "https://www.bibliotecando.it/"
+    github:
+      name: "github"
+      url: "https://github.com/gabrieljonesdev/"
 
 ## Labels
 italian-version:
