@@ -1,22 +1,21 @@
 ---
 ## Main icon
-icon: "/assets/images/verified.svg"
+icon: "/logo.png"
 
 ## Social Card [1200x630]
 social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  it: "Biblioteche FVG"
+  it: "Biblioteca | Fontanafredda"
 
 ## Site description
 description:
-  en: "A website with a Jekyll theme"
-  it: "Semplifichiamo la comunicazione, potenziamo le connessioni."
+  it: "Nell'occhio di Arena Giovani"
 
 ## Site author
 author:
-  it: "Team 18F"
+  it: "Gabriel Jones"
 
 ## Social
 social-links:
